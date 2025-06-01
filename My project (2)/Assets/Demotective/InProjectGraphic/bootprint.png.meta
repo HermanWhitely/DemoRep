@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 08ca4b6b448426348931f152c4cf5855
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2419900674193480744
+    second: bootprint_0
+  - first:
+      213: 8707895391126609574
+    second: bootprint_1
+  - first:
+      213: 2764291192668645576
+    second: bootprint_2
+  - first:
+      213: -2270566057837953668
+    second: bootprint_3
+  - first:
+      213: -3408899619868523988
+    second: bootprint_4
+  - first:
+      213: -6320368255290537897
+    second: bootprint_5
+  - first:
+      213: -8605663775646365756
+    second: bootprint_6
+  - first:
+      213: 2209538666369553935
+    second: bootprint_7
+  - first:
+      213: -2280258309150960189
+    second: bootprint_8
+  - first:
+      213: -7406026149551622588
+    second: bootprint_9
+  - first:
+      213: 7683299628530203852
+    second: bootprint_10
+  - first:
+      213: 9162773816364024131
+    second: bootprint_11
+  - first:
+      213: 243649732087387873
+    second: bootprint_12
+  - first:
+      213: 7859988233294941909
+    second: bootprint_13
+  - first:
+      213: -2971279904819926793
+    second: bootprint_14
+  - first:
+      213: 3502578005452453345
+    second: bootprint_15
+  - first:
+      213: 7670882002504691894
+    second: bootprint_16
+  - first:
+      213: -4304569275596485364
+    second: bootprint_17
+  - first:
+      213: -6522308107557240506
+    second: bootprint_18
+  - first:
+      213: -7933605707707978225
+    second: bootprint_19
+  - first:
+      213: -3597249165322797931
+    second: bootprint_20
+  - first:
+      213: -841563457101593332
+    second: bootprint_21
+  - first:
+      213: -2900550917563847885
+    second: bootprint_22
+  - first:
+      213: 2650997116728407643
+    second: bootprint_23
+  - first:
+      213: -8104862478568525560
+    second: bootprint_24
+  - first:
+      213: -6322177259169070010
+    second: bootprint_25
+  - first:
+      213: -7727554314755659035
+    second: bootprint_26
+  - first:
+      213: -2404288015291965629
+    second: bootprint_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bootprint_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cd70d87d6359120800000000000000
+      internalID: 2419900674193480744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 137
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aedc59c8b8a8d870800000000000000
+      internalID: 8707895391126609574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 122
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c861c2a13cbc5620800000000000000
+      internalID: 2764291192668645576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 133
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d728b43345d70e0800000000000000
+      internalID: -2270566057837953668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 133
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22c5ca5bd721b0d0800000000000000
+      internalID: -3408899619868523988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 122
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75880cdfe8a8948a0800000000000000
+      internalID: -6320368255290537897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 125
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7c62c046a829880800000000000000
+      internalID: -8605663775646365756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06927ed5bbd9ae10800000000000000
+      internalID: 2209538666369553935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c59cee2625ea50e0800000000000000
+      internalID: -2280258309150960189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 101
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446b8bea472883990800000000000000
+      internalID: -7406026149551622588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 110
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccfe65ed4090aa60800000000000000
+      internalID: 7683299628530203852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341c0a15d36b82f70800000000000000
+      internalID: 9162773816364024131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e610b2f32e916300800000000000000
+      internalID: 243649732087387873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8b4877a9441d60800000000000000
+      internalID: 7859988233294941909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 94
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a3f84ba4e3c6d0800000000000000
+      internalID: -2971279904819926793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f6157328ab9030800000000000000
+      internalID: 3502578005452453345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0ba390a82747a60800000000000000
+      internalID: 7670882002504691894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc209ec091344c0800000000000000
+      internalID: -4304569275596485364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6418665355b1c75a0800000000000000
+      internalID: -6522308107557240506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 61
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eed0494ab26e190800000000000000
+      internalID: -7933605707707978225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3d5471f0041ec0800000000000000
+      internalID: -3597249165322797931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05828b9e7a2254f0800000000000000
+      internalID: -841563457101593332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 61
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6ca9ee4c2fb7d0800000000000000
+      internalID: -2900550917563847885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_23
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b567e2305db3ac420800000000000000
+      internalID: 2650997116728407643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f783648eb58f80800000000000000
+      internalID: -8104862478568525560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644cc24774d1348a0800000000000000
+      internalID: -6322177259169070010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaa3760b4632c490800000000000000
+      internalID: -7727554314755659035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bootprint_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f1bced9c042aed0800000000000000
+      internalID: -2404288015291965629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
